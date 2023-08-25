@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3a46c6badd8053f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuuck.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +93,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "e11a58eaaf9219ff",
@@ -94,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian/Test.md",
+            "file": "Fuuck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian/Test.md",
+            "file": "Fuuck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian/Test.md"
+            "file": "Fuuck.md"
           }
         }
       }
@@ -140,9 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4e0bb78008e1736",
+  "active": "d3a46c6badd8053f",
   "lastOpenFiles": [
-    "Obsidian/Untitled.md",
-    "Obsidian/Test.md"
+    "Obsidian/Test.md",
+    "Fuuck.md",
+    "Obsidian/Untitled.md"
   ]
 }
