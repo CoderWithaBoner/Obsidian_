@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f4e0bb78008e1736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3a46c6badd8053f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fuuck.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +68,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "e11a58eaaf9219ff",
@@ -105,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fuuck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fuuck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Fuuck.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -151,9 +123,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a46c6badd8053f",
+  "active": "a851761389a2f906",
   "lastOpenFiles": [
-    "Obsidian/Test.md",
+    "Tor/Test.md",
     "Fuuck.md",
     "Obsidian/Untitled.md"
   ]
