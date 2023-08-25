@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Obsidian_": []
+    "Obsidian_": [
+      "Tor"
+    ]
   },
   "expandedSpaces": [
     "/",
@@ -71,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692975051294,
+  "spacesAutoBackupLast": 1692975509257,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
