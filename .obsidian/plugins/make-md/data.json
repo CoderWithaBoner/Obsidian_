@@ -13,7 +13,7 @@
   "internalLinkClickFlow": true,
   "contextEnabled": true,
   "saveAllContextToFrontmatter": true,
-  "editorFlowStyle": "seamless",
+  "editorFlowStyle": "minimal",
   "autoOpenFileContext": false,
   "activeView": "root",
   "hideFrontmatter": true,
@@ -25,22 +25,24 @@
   "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
-  "revealActiveFile": false,
-  "spacesStickers": false,
+  "revealActiveFile": true,
+  "spacesStickers": true,
   "spaceRowHeight": 29,
   "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
   "folderNoteDefaultView": true,
-  "sidebarTabs": true,
-  "showRibbon": true,
+  "sidebarTabs": false,
+  "showRibbon": false,
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian_": [
+      "/",
       "Tor"
     ]
   },
   "expandedSpaces": [
     "/",
+    null,
     null,
     "Obsidian_"
   ],
@@ -58,7 +60,7 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": true,
+  "lineNumbers": false,
   "hiddenExtensions": [
     ".mdb"
   ],
@@ -67,13 +69,13 @@
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
-  "dataviewInlineContext": false,
+  "dataviewInlineContext": true,
   "inlineContextNameLayout": "vertical",
   "spacesSyncLastUpdated": "Context/spacesLastSync.log",
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692975509257,
+  "spacesAutoBackupLast": 1692976203336,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

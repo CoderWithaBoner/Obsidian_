@@ -1,6 +1,7 @@
 [
   "obsidian-git",
-  "make-md",
+  "recent-files-obsidian",
+  "obsidian-trash-explorer",
   "cmdr",
-  "notion-like-tables"
+  "make-md"
 ]

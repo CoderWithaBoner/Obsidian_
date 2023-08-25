@@ -11,22 +11,15 @@
             "id": "a851761389a2f906",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c87c7f02139d8545",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Tor"
+                "file": "Tor/Tor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +73,15 @@
         }
       },
       {
-        "id": "bd31ecf93e6c435d",
+        "id": "4eb6b9f90141a57b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "b645271d7c77eec3",
         "type": "leaf",
         "state": {
           "type": "mk-file-view",
@@ -88,7 +89,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "right": {
     "id": "e11a58eaaf9219ff",
@@ -100,6 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Tor/Tor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,6 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Tor/Tor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +129,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Tor/Tor.md"
+          }
         }
       }
     ],
@@ -140,16 +145,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "notion-like-tables:Create new loom": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c87c7f02139d8545",
+  "active": "a851761389a2f906",
   "lastOpenFiles": [
+    "Tor/Search Engines.md",
     "Tor/Tor.md",
     "Untitled.md",
-    "Tor/Search Engines.md",
     "Context/spacesLastSync.log",
     "Context",
+    "Tor/Tape.md",
     "Tor/Test.md",
     "Fuuck.md",
     "Obsidian/Untitled.md"
