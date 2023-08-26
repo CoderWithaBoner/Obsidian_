@@ -3,7 +3,32 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-git:stage-current-file",
+      "icon": "github",
+      "name": "Obsidian Git: Stage current file",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-rtl:switch-text-direction",
+      "icon": "arrow-left-right",
+      "name": "RTL Support: Switch Text Direction (LTR->RTL->auto)",
+      "mode": "any"
+    },
+    {
+      "id": "workspaces:save-and-load",
+      "icon": "lucide-layout",
+      "name": "Workspaces: Save and load another layout",
+      "mode": "any"
+    },
+    {
+      "id": "workspaces:open-modal",
+      "icon": "lucide-layout",
+      "name": "Workspaces: Manage workspace layouts",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

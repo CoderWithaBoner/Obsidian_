@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Tor",
-      "path": "Tor/Tor.md"
-    },
-    {
       "basename": "Search Engines",
       "path": "Tor/Search Engines.md"
     },
     {
+      "basename": "ExcavaTor",
+      "path": "Tor/ExcavaTor.md"
+    },
+    {
+      "basename": "TOR Links",
+      "path": "Tor/TOR Links.md"
+    },
+    {
+      "basename": "Work",
+      "path": "Work.md"
+    },
+    {
+      "basename": "Torch",
+      "path": "Tor/Torch.md"
+    },
+    {
       "basename": "Tape",
       "path": "Tor/Tape.md"
+    },
+    {
+      "basename": "Haystak",
+      "path": "Tor/Haystak.md"
+    },
+    {
+      "basename": "Ahmia",
+      "path": "Tor/Ahmia.md"
+    },
+    {
+      "basename": "Tor",
+      "path": "Tor/Tor.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1802092c7de5bf1",
+        "id": "827d9cb0f0549403",
         "type": "tabs",
         "children": [
           {
-            "id": "a851761389a2f906",
+            "id": "efdc85eff261eaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tor/Tor.md",
+                "file": "Tor/Search Engines.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,17 +79,9 @@
           "type": "recent-files",
           "state": {}
         }
-      },
-      {
-        "id": "b645271d7c77eec3",
-        "type": "leaf",
-        "state": {
-          "type": "mk-file-view",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
     "id": "e11a58eaaf9219ff",
@@ -101,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tor/Tor.md",
+            "file": "Tor/Search Engines.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tor/Tor.md",
+            "file": "Tor/Search Engines.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,8 +122,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tor/Tor.md"
+            "file": "Tor/Search Engines.md"
           }
+        }
+      },
+      {
+        "id": "ac8859173889fbc8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
         }
       }
     ],
@@ -139,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,17 +147,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a851761389a2f906",
+  "active": "efdc85eff261eaaf",
   "lastOpenFiles": [
+    "Tor/Onion Search Engine.md",
+    "Tor/ExcavaTor.md",
+    "Tor/TOR Links.md",
     "Tor/Search Engines.md",
-    "Tor/Tor.md",
-    "Untitled.md",
+    "Work.md",
+    "Tor/Torch.md",
+    "Tor/Tape.md",
+    "Tor/Haystak.md",
+    "Tor/Ahmia.md",
+    "Context/#عربي.mdb",
+    "عربي/عت٤ن٤ن٤ربي.md",
+    "عربي/عربي.md",
+    "عربي/عربي",
+    "عربي",
+    "عبنيننبن.md",
+    "Context/عربي.mdb",
+    ".md",
     "Context/spacesLastSync.log",
     "Context",
-    "Tor/Tape.md",
+    "Tor here/Tor here.md",
+    "Tor here",
+    "Arabyyy.md",
+    "Uriririeu",
+    "Tf.md",
+    "T.md",
+    "Test arabic.md",
+    "Tor/Tor.md",
     "Tor/Test.md",
     "Fuuck.md",
     "Obsidian/Untitled.md"
