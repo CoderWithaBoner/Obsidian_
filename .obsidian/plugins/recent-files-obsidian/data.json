@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Vocabulary",
+      "path": "Vocabulary/Vocabulary.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "DarkWebLinksV3",
+      "path": "Tor/DarkWebLinksV3.md"
+    },
+    {
+      "basename": "GitHubLinks",
+      "path": "Tor/GitHubLinks.md"
+    },
+    {
+      "basename": "Links",
+      "path": "Tor/Links.md"
+    },
+    {
+      "basename": "TOR Search Engine",
+      "path": "Tor/TOR Search Engine.md"
+    },
+    {
+      "basename": "Tape",
+      "path": "Tor/Tape.md"
+    },
+    {
+      "basename": "Haystak",
+      "path": "Tor/Haystak.md"
+    },
+    {
       "basename": "Search Engines",
       "path": "Tor/Search Engines.md"
     },
@@ -13,28 +45,12 @@
       "path": "Tor/TOR Links.md"
     },
     {
-      "basename": "Work",
-      "path": "Work.md"
-    },
-    {
       "basename": "Torch",
       "path": "Tor/Torch.md"
     },
     {
-      "basename": "Tape",
-      "path": "Tor/Tape.md"
-    },
-    {
-      "basename": "Haystak",
-      "path": "Tor/Haystak.md"
-    },
-    {
       "basename": "Ahmia",
       "path": "Tor/Ahmia.md"
-    },
-    {
-      "basename": "Tor",
-      "path": "Tor/Tor.md"
     }
   ],
   "omittedPaths": [],

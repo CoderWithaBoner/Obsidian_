@@ -1,5 +1,7 @@
 {
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false
 }

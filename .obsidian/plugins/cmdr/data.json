@@ -5,27 +5,27 @@
   "editorMenu": [],
   "fileMenu": [
     {
-      "id": "obsidian-git:stage-current-file",
+      "id": "obsidian-git:fetch",
       "icon": "github",
-      "name": "Obsidian Git: Stage current file",
+      "name": "Obsidian Git: fetch",
       "mode": "any"
     },
     {
-      "id": "obsidian-rtl:switch-text-direction",
-      "icon": "arrow-left-right",
-      "name": "RTL Support: Switch Text Direction (LTR->RTL->auto)",
+      "id": "obsidian-git:commit",
+      "icon": "github",
+      "name": "Obsidian Git: Commit all changes",
       "mode": "any"
     },
     {
-      "id": "workspaces:save-and-load",
-      "icon": "lucide-layout",
-      "name": "Workspaces: Save and load another layout",
+      "id": "obsidian-git:pull",
+      "icon": "github",
+      "name": "Obsidian Git: Pull",
       "mode": "any"
     },
     {
-      "id": "workspaces:open-modal",
-      "icon": "lucide-layout",
-      "name": "Workspaces: Manage workspace layouts",
+      "id": "obsidian-git:push2",
+      "icon": "github",
+      "name": "Obsidian Git: Push",
       "mode": "any"
     }
   ],
