@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Onion Search Engine",
+      "path": "Onion Search Engine.md"
+    },
+    {
       "basename": "Home",
       "path": "Home/Home.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Arabic",
       "path": "Home/Vocabulary/Arabic.md"
-    },
-    {
-      "basename": "Onion Search Engine",
-      "path": "Onion Search Engine.md"
     },
     {
       "basename": "Tor",
