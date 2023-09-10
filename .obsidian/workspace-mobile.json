@@ -4,43 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "685a93c4f9a7a90b",
-        "type": "split",
+        "id": "a025d5dc1bca4a83",
+        "type": "tabs",
         "children": [
           {
-            "id": "99c4268b44feada4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6eaeed0173a9f92f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vocabulary/Vocabulary.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "cb5acf4e5bcb834c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "a025d5dc1bca4a83",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cb5acf4e5bcb834c",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +80,14 @@
           "type": "recent-files",
           "state": {}
         }
+      },
+      {
+        "id": "0dc28e80560f9c6a",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -114,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vocabulary/Vocabulary.md",
+            "file": "Home/Home.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "byCreatedTimeReverse",
@@ -131,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vocabulary/Vocabulary.md",
+            "file": "Home/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,16 +131,8 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vocabulary/Vocabulary.md"
+            "file": "Home/Home.md"
           }
-        }
-      },
-      {
-        "id": "1814d63020ccf3a2",
-        "type": "leaf",
-        "state": {
-          "type": "review-queue-list-view",
-          "state": {}
         }
       },
       {
@@ -189,46 +169,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eaeed0173a9f92f",
+  "active": "cb5acf4e5bcb834c",
   "lastOpenFiles": [
-    "Home.md",
+    "Home/Books/Myth Of Sisyphus.md",
+    "Home/Books/Vocab Myth Of Sisyphus.md",
+    "Home/Books/Books.md",
+    "Home/Home.md",
+    "Home/Vocabulary/Vocabulary.md",
+    "Home/Vocabulary/English.md",
+    "Home/Quotes/Quotes.md",
+    "Myth.md",
+    "hdhdh.md",
+    "Home/Vocabulary/Arabic.md",
+    "Onion Search Engine.md",
+    "Home",
+    "Home/Tor/Tor.md",
+    "Home/Quotes",
+    "Home/Books",
+    "Home/Vocabulary/Vocabulary (682419).md",
     "Day Planners/Day Planner-20230828.md",
-    "Vocabulary/Vocabulary.md",
-    "Tor/GitHubLinks.md",
+    "Home/Tor/GitHubLinks.md",
     "Untitled.loom",
-    "Tor/Links.md",
-    "Tor/TOR Search Engine.md",
+    "Home/Tor/Links.md",
+    "Home/Tor/TOR Search Engine.md",
     "Untitled mindmap.md",
-    "Tor/Tape.md",
-    "Tor/Haystak.md",
+    "Home/Tor/Tape.md",
+    "Home/Tor/Haystak.md",
     "Tor/Untitled mindmap.md",
     "Work.md",
     "Day Planners/Day Planner-20230827.md",
     "Day Planners",
-    "Tor/Tor.md",
     "Vocabulary/Dhdhdhd.md",
-    "Tor/DarkWebLinksV3.md",
-    "Tor/Search Engines.md",
-    "Tor/Torch.md",
-    "Tor/Ahmia.md",
-    "Vocabulary",
-    "Tor/Onion Search Engine.md",
-    "Tor/ExcavaTor.md",
-    "Tor/TOR Links.md",
+    "Home/Tor/DarkWebLinksV3.md",
+    "Home/Tor/Search Engines.md",
+    "Home/Vocabulary",
     "Context/#عربي.mdb",
-    "عربي/عت٤ن٤ن٤ربي.md",
-    "عربي/عربي.md",
     "عربي/عربي",
     "عربي",
-    "عبنيننبن.md",
-    "Context/عربي.mdb",
-    ".md",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Tor here/Tor here.md",
-    "Arabyyy.md"
+    "Context/عربي.mdb"
   ]
 }

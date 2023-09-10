@@ -1,56 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Vocabulary",
-      "path": "Vocabulary/Vocabulary.md"
+      "basename": "Home",
+      "path": "Home/Home.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Vocab Myth Of Sisyphus",
+      "path": "Home/Books/Vocab Myth Of Sisyphus.md"
+    },
+    {
+      "basename": "Myth Of Sisyphus",
+      "path": "Home/Books/Myth Of Sisyphus.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Home/Books/Books.md"
+    },
+    {
+      "basename": "Vocabulary",
+      "path": "Home/Vocabulary/Vocabulary.md"
+    },
+    {
+      "basename": "English",
+      "path": "Home/Vocabulary/English.md"
+    },
+    {
+      "basename": "Quotes",
+      "path": "Home/Quotes/Quotes.md"
+    },
+    {
+      "basename": "Arabic",
+      "path": "Home/Vocabulary/Arabic.md"
+    },
+    {
+      "basename": "Onion Search Engine",
+      "path": "Onion Search Engine.md"
+    },
+    {
+      "basename": "Tor",
+      "path": "Home/Tor/Tor.md"
+    },
+    {
+      "basename": "Vocabulary (682419)",
+      "path": "Home/Vocabulary/Vocabulary (682419).md"
     },
     {
       "basename": "DarkWebLinksV3",
-      "path": "Tor/DarkWebLinksV3.md"
+      "path": "Home/Tor/DarkWebLinksV3.md"
     },
     {
       "basename": "GitHubLinks",
-      "path": "Tor/GitHubLinks.md"
+      "path": "Home/Tor/GitHubLinks.md"
     },
     {
       "basename": "Links",
-      "path": "Tor/Links.md"
+      "path": "Home/Tor/Links.md"
     },
     {
       "basename": "TOR Search Engine",
-      "path": "Tor/TOR Search Engine.md"
+      "path": "Home/Tor/TOR Search Engine.md"
     },
     {
       "basename": "Tape",
-      "path": "Tor/Tape.md"
+      "path": "Home/Tor/Tape.md"
     },
     {
       "basename": "Haystak",
-      "path": "Tor/Haystak.md"
+      "path": "Home/Tor/Haystak.md"
     },
     {
       "basename": "Search Engines",
-      "path": "Tor/Search Engines.md"
+      "path": "Home/Tor/Search Engines.md"
     },
     {
       "basename": "ExcavaTor",
-      "path": "Tor/ExcavaTor.md"
+      "path": "Home/Tor/ExcavaTor.md"
     },
     {
       "basename": "TOR Links",
-      "path": "Tor/TOR Links.md"
+      "path": "Home/Tor/TOR Links.md"
     },
     {
       "basename": "Torch",
-      "path": "Tor/Torch.md"
+      "path": "Home/Tor/Torch.md"
     },
     {
       "basename": "Ahmia",
-      "path": "Tor/Ahmia.md"
+      "path": "Home/Tor/Ahmia.md"
     }
   ],
   "omittedPaths": [],
