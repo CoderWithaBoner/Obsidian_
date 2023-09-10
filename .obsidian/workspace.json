@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f0dcc91dc8dbdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,8 +196,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9e239e4598f6b29",
+  "active": "5f0dcc91dc8dbdbf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Home/Home.md",
+    "Test 2.md",
     "Test.md",
     "Untitled.md"
   ]
