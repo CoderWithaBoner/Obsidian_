@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 2.md",
+                "file": "Home/Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test 2.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "byCreatedTimeReverse",
@@ -119,7 +118,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,9 +128,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Test 2.md"
-          }
+          "state": {}
         }
       },
       {
@@ -181,7 +177,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0d82bffd38710af2",
+  "active": "2b76afc85f077169",
   "lastOpenFiles": [
     "Home/Home.md",
     "Onion Search Engine.md",

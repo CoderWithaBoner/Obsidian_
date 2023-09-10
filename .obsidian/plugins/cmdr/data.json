@@ -27,6 +27,24 @@
       "icon": "github",
       "name": "Obsidian Git: Push",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:list-changed-files",
+      "icon": "github",
+      "name": "Obsidian Git: List changed files",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:view-file-on-github",
+      "icon": "github",
+      "name": "Obsidian Git: Open file on GitHub",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:switch-branch",
+      "icon": "github",
+      "name": "Obsidian Git: Switch branch",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],
