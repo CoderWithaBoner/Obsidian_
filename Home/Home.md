@@ -1,7 +1,6 @@
-# [[Books]]
----
 # [[Tor]]
----
-# [[Vocabulary]]
----
+- - -
 # [[Quotes]]
+- - -
+
+# [[School]]
